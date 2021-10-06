@@ -1,5 +1,6 @@
 # Streamlit
 
+## How to contribute
 1. Clone this repo
 2. Create a new branch
 3. Add your route in [views.py](https://github.com/CDplayerxOne/streamlit/blob/main/views.py)
