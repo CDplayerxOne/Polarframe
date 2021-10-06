@@ -1,6 +1,6 @@
 # Streamlit
 
-1. Clone the repo
+1. Clone this repo
 2. Create a new branch
 3. Add your route in views.py
 4. Time to build your project:
