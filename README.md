@@ -1,5 +1,5 @@
 # Streamlit
-Project challenge template
+Project challenge template(using flask)
 
 ### Current file structure:
 * JS and CSS files in [static](https://github.com/CDplayerxOne/streamlit/tree/main/static)
