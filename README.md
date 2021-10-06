@@ -5,6 +5,7 @@ Project challenge template
 * JS and CSS files in [static](https://github.com/CDplayerxOne/streamlit/tree/main/static)
 * HTML files in [templates](https://github.com/CDplayerxOne/streamlit/tree/main/templates)
 * Python files in root directory
+
 Change it up however you want if you choose to do so.
 
 ### Steps:
