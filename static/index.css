@@ -2,3 +2,6 @@
   color: white;
 }
 
+#flexer {
+  display: flex;
+}
