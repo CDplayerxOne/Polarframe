@@ -1,4 +1,4 @@
-# Streamlit challenge
+# Polarframe challenge
 Project challenge template(using flask)
 
 ### Current file structure:
