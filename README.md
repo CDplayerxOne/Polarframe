@@ -1,4 +1,4 @@
-# Polarframe challenge
+# Polarframe
 Flask Template
 
 ### Current file structure:
