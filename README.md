@@ -1,5 +1,5 @@
 # Polarframe challenge
-Project challenge template(using flask)
+Flask Template
 
 ### Current file structure:
 * JS and CSS files in [static](https://github.com/CDplayerxOne/streamlit/tree/main/static)
